@@ -1,0 +1,16 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    animation-name: color;
+    animation-duration: 5s;
+}
+@keyframes color {
+    from { background-color: red; }
+    to { background-color: yellow; }
+}
