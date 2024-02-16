@@ -1,0 +1,56 @@
+
+.d1{
+    float: right;
+}
+.d  {
+    float: left;
+}
+.h{
+    height: 102px;
+}
+a:link{
+    margin :7px;
+    text-decoration: none;
+  
+}
+.s{
+    background-color: firebrick;
+    height: 40px;
+    width: 200px;
+    text-align: center;
+}
+.s1{
+    background-color: firebrick;
+    height: 60px;
+    width: 200px;
+    border: 1cap;
+     text-align: center;
+}
+.blocks{
+    float: left;
+}
+
+.r1{
+    float: left;
+  
+}
+.row1{
+    float: left;
+    margin-left: 20px;
+    
+}
+.r2{
+    float: left;
+}
+.row2{
+    float:left;
+}
+.last{
+    float: left;
+    color: white;
+    background-color: blue;
+    height: 30px;
+    width: 100%;
+    
+}
+
