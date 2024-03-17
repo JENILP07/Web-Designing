@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+}
+.grad{
+    width: 1575px;
+    height: 745px;
+    background-image: radial-gradient(red,yellow,green);
+}
